@@ -1,4 +1,4 @@
-//ankit bansal
+//ankit bansal is teacher
 #include <iostream> 
 using namespace std; 
 int main() {    
